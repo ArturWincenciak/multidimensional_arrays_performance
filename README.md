@@ -1,2 +1,2 @@
-# multidimensional_arrays_performance
-Performance tests for multidimensional arrays
+# Multidimensional Arrays Performance
+Performance tests for multidimensional arrays. Clone, build run and watch output...
